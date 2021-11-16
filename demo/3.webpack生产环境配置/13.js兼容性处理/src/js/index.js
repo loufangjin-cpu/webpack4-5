@@ -1,5 +1,5 @@
 // import '@babel/polyfill';
-
+// 在逻辑中引入即可，不需要配置， 但是体积较大
 const add = (x, y) => {
   return x + y;
 };
