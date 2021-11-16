@@ -5,3 +5,4 @@
   npm install webpack-cli@3.3.11 -g
   npm install webpack@4.41.6 -g  
 `
+# npx webpack-dev-server
